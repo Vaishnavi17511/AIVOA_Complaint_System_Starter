@@ -8,7 +8,7 @@ from .db import SessionLocal, ComplaintRecord, init_db
 
 
 app = FastAPI(
-    title="AIVOA Complaint Management API"
+    title="Complaint Management API"
 )
 
 

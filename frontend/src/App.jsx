@@ -7,7 +7,7 @@ import {
   reset
 } from "./store/store";
 
-const API = "http://localhost:8000/api";
+const API = import.meta.env.VITE_API_URL || "http://localhost:8000/api";
 
 const fields = [
   ["complaint_source", "Complaint Source"],
