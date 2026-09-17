@@ -108,8 +108,7 @@ export default function App() {
     <div className="page">
       <header>
         <div>
-          <b>AIVOA</b>
-          <span> AI Complaint Management</span>
+          <b>AI Complaint Management</b>
         </div>
         <button onClick={() => dispatch(reset())}>Reset</button>
       </header>
@@ -160,7 +159,7 @@ export default function App() {
 
         <aside className="assistant">
           <h2>
-            ✦ AIVOA Copilot <small>BETA</small>
+            ✦ AI Copilot <small>BETA</small>
           </h2>
 
           <div className="upload">

@@ -8,3 +8,4 @@ groq
 langgraph
 pypdf
 python-dotenv
+pg8000
