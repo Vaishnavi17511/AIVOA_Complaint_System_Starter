@@ -1,0 +1,10 @@
+streamlit
+pandas
+pydantic-settings
+sqlalchemy
+psycopg[binary]
+groq
+langgraph
+pypdf
+python-dotenv
+pg8000

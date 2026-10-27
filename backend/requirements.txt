@@ -1,6 +1,5 @@
-fastapi
-uvicorn[standard]
-python-multipart
+streamlit
+pandas
 pydantic-settings
 sqlalchemy
 psycopg[binary]
